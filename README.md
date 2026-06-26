@@ -1,0 +1,1 @@
+This is my first assigment. It is about ceating a simple website with recepies using simple HTML. It is to test my knowledge about HTML, links, images and a website setup. Hope it all works out well!
